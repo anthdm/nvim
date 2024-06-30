@@ -7,6 +7,7 @@ return {
   { "echasnovski/mini.indentscope", enabled = false },
   { "lukas-reineke/indent-blankline.nvim", enabled = false },
   { "nvim-ts-autotag", enabled = false },
+  { "folke/which-key.nvim", enabled = false },
   {
     "folke/noice.nvim",
     opts = {

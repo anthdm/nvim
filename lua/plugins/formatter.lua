@@ -8,6 +8,9 @@ return {
         sh = { "shfmt" },
         go = { "goimports", "gofmt" },
         templ = { "templ" },
+        html = { "prettier" },
+        svelte = { "prettier" },
+        eruby = { "erb_format" },
       },
     }
     return opts
